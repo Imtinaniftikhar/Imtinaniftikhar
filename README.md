@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imtinaniftikhar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on 
+- 👀 interested in programming
+- 🌱 currently learning Laravel
+- 💞️ looking to collaborate on 
 - 📫 imtinaniftikhar967@gmail.com
 
 <!---
